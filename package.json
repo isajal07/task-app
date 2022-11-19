@@ -10,7 +10,7 @@
     "react-calendar-heatmap": "^1.8.1",
     "react-dom": "^16.13.0",
     "react-heatmap-grid": "^0.8.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "recharts": "^2.0.0-beta.2",
     "semantic-ui-react": "^0.88.2"
   },
